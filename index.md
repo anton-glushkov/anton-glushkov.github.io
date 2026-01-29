@@ -45,7 +45,7 @@ Actively seeking any IT or IT-related role where strong technical fundamentals, 
 {% endif %}
 
 <footer>
-    <p>© 2026 Anton Hlushkov</p>
+    <p>© 2026 Anton Glushkov</p>
   <p>This page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative
 Commons Attribution-NoDerivatives 4.0 International License</a></p>
 </footer>
