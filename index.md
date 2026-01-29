@@ -3,7 +3,7 @@ title: Home
 has_map: true
 ---
 
-IT Information Security Specialist with hands-on experience in IT support and information security within a critical healthcare infrastructure environment. Background in computer engineering with practical exposure to system administration, user support, and web application development.
+Dedicated and practical IT Professional with direct experience as an IT Endpoint Technician within critical healthcare infrastructure. Proven track record in hardware deployment, component-level repairs, and first-line support in high-pressure medical environments. Technically proficient in Windows administration and Active Directory, with a strong commitment to maintaining system availability for essential healthcare services. 
 
 Key Skills:
 {% include nodes.html %}
