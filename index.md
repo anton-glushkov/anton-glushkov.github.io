@@ -5,6 +5,8 @@ has_map: true
 
 Dedicated and practical IT Professional with direct experience as an IT Endpoint Technician within critical healthcare infrastructure. Proven track record in hardware deployment, component-level repairs, and first-line support in high-pressure medical environments. Technically proficient in Windows administration and Active Directory, with a strong commitment to maintaining system availability for essential healthcare services. 
 
+[LinkedIn: /antonglushkov](https://www.linkedin.com/in/antonglushkov/)
+
 Key Skills:
 {% include nodes.html %}
 
