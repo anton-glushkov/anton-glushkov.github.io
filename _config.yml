@@ -1,0 +1,3 @@
+url:         "https://glushkov.pp.ua"      # ← canonical root domain (no trailing slash)
+
+production_url: "https://glushkov.pp.ua"   
