@@ -269,24 +269,16 @@ footer {
   ul {
     list-style: none;
     padding-left: 0;
-    margin: 0.6em 0 1.2em;
   }
-
+  
   li {
-    margin-bottom: 0.55em;
-    display: flex;
-    align-items: baseline;
-    gap: 0.4em;
-    line-height: 1.38;
+    margin-bottom: 0.6em;                  /* ← changed from 1.75em — that's it */
+    line-height: var(--line-height-relaxed);
   }
+}
 
-  .post-icon {
-    width: 22px;
-    height: 22px;
-    margin-right: 0;
-    flex-shrink: 0;
-    opacity: 0.65;
-  }
+article {
+  margin-bottom: var(--spacing-xl);
 }
 
 
