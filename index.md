@@ -7,9 +7,7 @@ Dedicated and practical IT Professional with direct experience as an IT Endpoint
 
 <p>
   <span style="display: inline-flex; align-items: center; gap: 0.4em;">
-    <svg height="20px" width="20px" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" style="color: #0a66c2;">
-      <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512"><path fill="#0085FF" d="M105 0h302c57.928.155 104.845 47.072 105 104.996V407c-.155 57.926-47.072 104.844-104.996 104.998L105 512C47.074 511.844.156 464.926.002 407.003L0 105C.156 47.072 47.074.155 104.997 0H105z"/><path fill="#fff" fill-rule="nonzero" d="M173.234 144.311c33.5 25.237 69.538 76.397 82.765 103.853 13.228-27.456 49.267-78.616 82.767-103.853 24.177-18.205 63.343-32.294 63.343 12.534 0 8.949-5.115 75.209-8.117 85.969-10.429 37.393-48.441 46.931-82.251 41.159 59.1 10.091 74.133 43.513 41.664 76.936-61.663 63.479-88.629-15.927-95.533-36.273-1.991-5.857-1.708-5.991-3.745 0-6.905 20.346-33.869 99.752-95.531 36.273-32.47-33.423-17.437-66.845 41.663-76.936-33.81 5.772-71.822-3.766-82.251-41.159-3.002-10.76-8.117-77.02-8.117-85.969 0-44.828 39.172-30.739 63.343-12.534z"/></svg>
     <a href="https://www.linkedin.com/in/antonglushkov/" style="font-family:system-ui;">/antonglushkov</a>
   </span>
 </p>
@@ -85,3 +83,4 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
 </script>
+
