@@ -1,3 +1,6 @@
-url:         "https://glushkov.pp.ua"      # ← canonical root domain (no trailing slash)
+url: "https://glushkov.pp.ua"
 
 production_url: "https://glushkov.pp.ua"   
+
+title: Anton Glushkov Personal Page
+description: Dedicated and practical IT Professional with direct experience as an IT Endpoint Technician within critical healthcare infrastructure. Proven track record in hardware deployment, component-level repairs, and first-line support in high-pressure medical environments. 
